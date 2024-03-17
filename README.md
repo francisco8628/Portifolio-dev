@@ -13,3 +13,5 @@ o controle das tarefas sera  realizado no Git Hub
 - :beetle: correção de bugs
 - :checkered_flag: Atualizações
 
+
+Obs: precisa melhorar a resposividade para aplicativos mobile.
